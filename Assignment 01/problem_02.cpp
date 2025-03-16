@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    float l,b;
+    int l,b;
     cin>>l>>b;
     cout<<"area: "<<l*b<<endl;
 }
