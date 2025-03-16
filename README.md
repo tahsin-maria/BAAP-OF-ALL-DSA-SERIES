@@ -1,7 +1,5 @@
 <h1 align="center">🌟 BAAP-OF-ALL-DSA-SERIES 🌟</h1>
 
----
-
 
 <p align="center">
   <strong>Welcome to BAAP-OF-ALL-DSA-SERIES</strong>
