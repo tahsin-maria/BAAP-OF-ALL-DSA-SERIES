@@ -71,7 +71,7 @@ git clone https://github.com/tahsin-maria/BAAP-OF-ALL-DSA-SERIES.git
 <p align="center">
 📩 Have questions or suggestions? Feel free to reach out!  <br>
 🔗 <strong>GitHub</strong>: <a href="https://github.com/tahsin-maria">tahsin-maria</a>  <br>
-🔗 <strong>LinkedIn</strong>: *[https://www.linkedin.com/in/tahsin-maria-131a62334/]*  <br>
+🔗 <strong>LinkedIn</strong>: https://www.linkedin.com/in/tahsin-maria-131a62334/  <br>
 </p>
 
 ---
