@@ -1,5 +1,6 @@
 <h1 align="center">🌟 BAAP-OF-ALL-DSA-SERIES 🌟</h1>
 
+
 <p align="center">
   <strong>Welcome to BAAP-OF-ALL-DSA-SERIES</strong>
 </p>
@@ -8,13 +9,16 @@
   The ultimate collection of <strong>Data Structures and Algorithms (DSA)</strong> problems and solutions! 🚀
 </p>
 
+
 ---
+
 
 <h2 align="center">📌 Index Table</h2>
 
 <p align="center">
   <strong>Your one-stop destination for all DSA assignments and code solutions!</strong>
 </p>
+
 
 <table align="center">
 <tr>
@@ -36,7 +40,9 @@
 <tr><td>1️⃣2️⃣</td> <td><a href="#">Assignment_12</a></td> <td><a href="#">Code</a></td></tr>
 </table>
 
+
 ---
+
 
 <h2 align="center">🔥 Features</h2>
 
@@ -55,28 +61,29 @@
 1️⃣ <strong>Clone the Repository</strong>
 </p>
 
+
 ```bash
 git clone https://github.com/tahsin-maria/BAAP-OF-ALL-DSA-SERIES.git
 ```
 
+
 <p align="center">
-2️⃣ <strong>Navigate to Your Assignment of Interest</strong>  <br>
+2️⃣ <strong>Navigate to Your Assignment of Interest</strong>  <br><br>
 3️⃣ <strong>Start Coding & Improving Your DSA Skills!</strong>
 </p>
 
 ---
 
+
 <h2 align="center">💬 Connect with Me</h2>
 
 <p align="center">
-📩 Have questions or suggestions? Feel free to reach out!  <br>
-🔗 <strong>GitHub</strong>: <a href="https://github.com/tahsin-maria">tahsin-maria</a>  <br>
+📩 Have questions or suggestions? Feel free to reach out!  <br><br>
+🔗 <strong>GitHub</strong>: <a href="https://github.com/tahsin-maria">tahsin-maria</a>  <br><br>
 🔗 <strong>LinkedIn</strong>: https://www.linkedin.com/in/tahsin-maria-131a62334/  <br>
 </p>
 
 ---
 
-<p align="center">
-⭐ <strong>If you find this repository helpful, don’t forget to star it!</strong> ⭐
-</p>
+
 
