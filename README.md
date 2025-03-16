@@ -1,4 +1,4 @@
-# 🌟 BAAP-OF-ALL-DSA-SERIES 🌟
+<h1 align="center">🌟 BAAP-OF-ALL-DSA-SERIES 🌟</h1>
 
 <p align="center">
   <strong>Welcome to BAAP-OF-ALL-DSA-SERIES</strong>
@@ -10,44 +10,49 @@
 
 ---
 
-## 📌 Index Table
+<h2 align="center">📌 Index Table</h2>
 
 <p align="center">
   <strong>Your one-stop destination for all DSA assignments and code solutions!</strong>
 </p>
 
-| #  | Assignments 📑 | Code Solutions 💻 |
-|----|---------------|-----------------|
-| 1️⃣  | [Assignment_01](#) | [Code](#) |
-| 2️⃣  | [Assignment_02](#) | [Code](#) |
-| 3️⃣  | [Assignment_03](#) | [Code](#) |
-| 4️⃣  | [Assignment_04](#) | [Code](#) |
-| 5️⃣  | [Assignment_05](#) | [Code](#) |
-| 6️⃣  | [Assignment_06](#) | [Code](#) |
-| 7️⃣  | [Assignment_07](#) | [Code](#) |
-| 8️⃣  | [Assignment_08](#) | [Code](#) |
-| 9️⃣  | [Assignment_09](#) | [Code](#) |
-| 🔟  | [Assignment_10](#) | [Code](#) |
-| 1️⃣1️⃣ | [Assignment_11](#) | [Code](#) |
-| 1️⃣2️⃣ | [Assignment_12](#) | [Code](#) |
+<table align="center">
+<tr>
+<th>#</th>
+<th>Assignments 📑</th>
+<th>Code Solutions 💻</th>
+</tr>
+<tr><td>1️⃣</td> <td><a href="#">Assignment_01</a></td> <td><a href="#">Code</a></td></tr>
+<tr><td>2️⃣</td> <td><a href="#">Assignment_02</a></td> <td><a href="#">Code</a></td></tr>
+<tr><td>3️⃣</td> <td><a href="#">Assignment_03</a></td> <td><a href="#">Code</a></td></tr>
+<tr><td>4️⃣</td> <td><a href="#">Assignment_04</a></td> <td><a href="#">Code</a></td></tr>
+<tr><td>5️⃣</td> <td><a href="#">Assignment_05</a></td> <td><a href="#">Code</a></td></tr>
+<tr><td>6️⃣</td> <td><a href="#">Assignment_06</a></td> <td><a href="#">Code</a></td></tr>
+<tr><td>7️⃣</td> <td><a href="#">Assignment_07</a></td> <td><a href="#">Code</a></td></tr>
+<tr><td>8️⃣</td> <td><a href="#">Assignment_08</a></td> <td><a href="#">Code</a></td></tr>
+<tr><td>9️⃣</td> <td><a href="#">Assignment_09</a></td> <td><a href="#">Code</a></td></tr>
+<tr><td>🔟</td> <td><a href="#">Assignment_10</a></td> <td><a href="#">Code</a></td></tr>
+<tr><td>1️⃣1️⃣</td> <td><a href="#">Assignment_11</a></td> <td><a href="#">Code</a></td></tr>
+<tr><td>1️⃣2️⃣</td> <td><a href="#">Assignment_12</a></td> <td><a href="#">Code</a></td></tr>
+</table>
 
 ---
 
-## 🔥 Features
+<h2 align="center">🔥 Features</h2>
 
 <p align="center">
-✅ <strong>Beginner to Advanced</strong> - Covers all fundamental & advanced DSA topics.  
-✅ <strong>Well-Structured</strong> - Organized topic-wise for better understanding.  
-✅ <strong>Optimized Code</strong> - Clean & efficient solutions with explanations.  
-✅ <strong>Regular Updates</strong> - Constantly adding new problems & solutions.  
+✅ <strong>Beginner to Advanced</strong> - Covers all fundamental & advanced DSA topics.  <br>
+✅ <strong>Well-Structured</strong> - Organized topic-wise for better understanding.  <br>
+✅ <strong>Optimized Code</strong> - Clean & efficient solutions with explanations.  <br>
+✅ <strong>Regular Updates</strong> - Constantly adding new problems & solutions.  <br>
 </p>
 
 ---
 
-## 🚀 Getting Started
+<h2 align="center">🚀 Getting Started</h2>
 
 <p align="center">
-1️⃣ **Clone the Repository**
+1️⃣ <strong>Clone the Repository</strong>
 </p>
 
 ```bash
@@ -55,18 +60,18 @@ git clone https://github.com/tahsin-maria/BAAP-OF-ALL-DSA-SERIES.git
 ```
 
 <p align="center">
-2️⃣ **Navigate to Your Assignment of Interest**  
-3️⃣ **Start Coding & Improving Your DSA Skills!**
+2️⃣ <strong>Navigate to Your Assignment of Interest</strong>  <br>
+3️⃣ <strong>Start Coding & Improving Your DSA Skills!</strong>
 </p>
 
 ---
 
-## 💬 Connect with Me
+<h2 align="center">💬 Connect with Me</h2>
 
 <p align="center">
-📩 Have questions or suggestions? Feel free to reach out!  
-🔗 <strong>GitHub</strong>: [tahsin-maria](https://github.com/tahsin-maria)  
-🔗 <strong>LinkedIn</strong>: *[Your LinkedIn Profile (Optional)]*  
+📩 Have questions or suggestions? Feel free to reach out!  <br>
+🔗 <strong>GitHub</strong>: <a href="https://github.com/tahsin-maria">tahsin-maria</a>  <br>
+🔗 <strong>LinkedIn</strong>: *[Your LinkedIn Profile (Optional)]*  <br>
 </p>
 
 ---
