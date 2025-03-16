@@ -5,7 +5,7 @@
 
 <p align="center">
   <strong>Welcome to BAAP-OF-ALL-DSA-SERIES</strong>
-</p><br><br>
+</p><br>
 
 <p align="center">
   The ultimate collection of <strong>Data Structures and Algorithms (DSA)</strong> problems and solutions! 🚀
@@ -13,7 +13,7 @@
 
 
 ---
-<br><br>
+<br>
 
 <h2 align="center">📌 Index Table</h2>
 <br><br>
@@ -47,7 +47,7 @@
 
 
 <h2 align="center">🔥 Features</h2>
-<br><br>
+<br>
 <p align="center">
 ✅ <strong>Beginner to Advanced</strong> - Covers all fundamental & advanced DSA topics.  <br>
 ✅ <strong>Well-Structured</strong> - Organized topic-wise for better understanding.  <br>
