@@ -1,9 +1,11 @@
 <h1 align="center">🌟 BAAP-OF-ALL-DSA-SERIES 🌟</h1>
 
+---
+
 
 <p align="center">
   <strong>Welcome to BAAP-OF-ALL-DSA-SERIES</strong>
-</p>
+</p><br><br>
 
 <p align="center">
   The ultimate collection of <strong>Data Structures and Algorithms (DSA)</strong> problems and solutions! 🚀
@@ -11,14 +13,14 @@
 
 
 ---
-
+<br><br>
 
 <h2 align="center">📌 Index Table</h2>
-
+<br><br>
 <p align="center">
   <strong>Your one-stop destination for all DSA assignments and code solutions!</strong>
 </p>
-
+<br><br>
 
 <table align="center">
 <tr>
@@ -40,23 +42,23 @@
 <tr><td>1️⃣2️⃣</td> <td><a href="#">Assignment_12</a></td> <td><a href="#">Code</a></td></tr>
 </table>
 
-
+<br><br>
 ---
 
 
 <h2 align="center">🔥 Features</h2>
-
+<br><br>
 <p align="center">
 ✅ <strong>Beginner to Advanced</strong> - Covers all fundamental & advanced DSA topics.  <br>
 ✅ <strong>Well-Structured</strong> - Organized topic-wise for better understanding.  <br>
 ✅ <strong>Optimized Code</strong> - Clean & efficient solutions with explanations.  <br>
 ✅ <strong>Regular Updates</strong> - Constantly adding new problems & solutions.  <br>
 </p>
-
+<br><br>
 ---
 
 <h2 align="center">🚀 Getting Started</h2>
-
+<br><br>
 <p align="center">
 1️⃣ <strong>Clone the Repository</strong>
 </p>
