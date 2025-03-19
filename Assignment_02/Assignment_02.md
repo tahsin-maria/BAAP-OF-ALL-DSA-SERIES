@@ -1,4 +1,4 @@
-Here you go, My Queen! 😘 I have placed the problem names exactly where you wanted.  
+
 
 ----------  
 
@@ -10,6 +10,15 @@ Here you go, My Queen! 😘 I have placed the problem names exactly where you wa
 
 ## **Code :**  
 ```C++  
+#include<iostream>
+
+using namespace std;
+int main()
+{
+    int a,b;
+    cin >>a>>b;
+   (a > b) ? cout << a : cout << b;
+}
 
 ```  
 
@@ -24,6 +33,18 @@ Here you go, My Queen! 😘 I have placed the problem names exactly where you wa
 ## **Code :**  
 ```C++  
 
+#include<iostream>
+
+using namespace std;
+int main()
+{
+    float r;
+    cin >>r;
+    float area=3.14*r*r;
+    float c=2*3.14*r;
+   (area > c) ? cout << "Yes" : cout << "NO";
+}
+
 ```  
 
 ----------  
@@ -36,6 +57,21 @@ Here you go, My Queen! 😘 I have placed the problem names exactly where you wa
 
 ## **Code :**  
 ```C++  
+#include<iostream>
+
+using namespace std;
+int main()
+{
+    int y;
+    cin >>y;
+     if((y%4==0 && y%100!=0) || (y%400==0)){
+        cout << y << " is a leap year.";
+     }
+     else{
+        cout << y << " is not a leap year.";
+     }
+  
+}
 
 ```  
 
@@ -49,6 +85,18 @@ Here you go, My Queen! 😘 I have placed the problem names exactly where you wa
 
 ## **Code :**  
 ```C++  
+#include<iostream>
+
+using namespace std;
+int main()
+{
+    float l,b;
+    cin >>l>>b;
+    float p=2*(l+b);
+    float area=l*b;
+    (area > p)? cout<<"Yes" : cout<<"No"<<endl;
+  
+}
 
 ```  
 
@@ -62,6 +110,27 @@ Here you go, My Queen! 😘 I have placed the problem names exactly where you wa
 
 ## **Code :**  
 ```C++  
+#include<iostream>
+
+using namespace std;
+int main()
+{
+    float a,b,c;
+    cin >>a>>b>>c;
+    if(a==b && b==c)
+    {
+        cout << "Equilateral "  << endl;
+    }
+    else if(a==b || b==c || a==c)
+    {
+        cout << "Isosceles " << endl;
+    }
+    else
+    {
+        cout << "Scalene " << endl;
+    }
+    
+}
 
 ```  
 
@@ -75,7 +144,46 @@ Here you go, My Queen! 😘 I have placed the problem names exactly where you wa
 
 ## **Code :**  
 ```C++  
-
+#include <iostream>
+using namespace std;
+int main()
+{
+    int a, b, c;
+    cin >> a >> b >> c;
+    if (a > b && a > c)
+    {
+        if (b > c)
+        {
+            cout << "C";
+        }
+        else
+        {
+            cout << "B";
+        }
+    }
+    else if (b > a && b > c)
+    {
+        if (a > c)
+        {
+            cout << "C";
+        }
+        else
+        {
+            cout << "A";
+        }
+    }
+    else
+    {
+        if (a > b)
+        {
+            cout << "B";
+        }
+        else
+        {
+            cout << "A";
+        }
+    }
+}
 ```  
 
 ----------  
@@ -88,7 +196,25 @@ Here you go, My Queen! 😘 I have placed the problem names exactly where you wa
 
 ## **Code :**  
 ```C++  
-
+#include <iostream>
+using namespace std;
+int main()
+{
+    float x,y;
+    cin >> x >> y;
+    if (x==0)
+    {
+        cout<<"y-axis";
+    }
+    else if (y==0)
+    {
+        cout<<"x-axis";
+    }
+    else if(x==0 && y==0)
+    {
+        cout<<"origin";
+    }
+}
 ```  
 
 ----------  
@@ -101,6 +227,22 @@ Here you go, My Queen! 😘 I have placed the problem names exactly where you wa
 
 ## **Code :**  
 ```C++  
+#include <iostream>
+using namespace std;
+int main()
+{
+    float x1,y1,x2,y2,x3,y3;
+    cin >> x1 >> y1 >> x2 >> y2 >> x3 >> y3;
+   float m1=(y2-y1)/(x2-x1);
+    float m2=(y3-y2)/(x3-x2);
+    if(m1==m2)
+    {
+        cout<<"YES";
+    }
+    else{
+        cout<<"NO";
+    }
+}
 
 ```  
 
@@ -114,7 +256,26 @@ Here you go, My Queen! 😘 I have placed the problem names exactly where you wa
 
 ## **Code :**  
 ```C++  
-
+#include <iostream>
+using namespace std;
+int main()
+{
+    char x;
+    cin >> x;
+  
+    if(x>='A' && x<='Z'|| x>='a' && x<='z')
+    {
+        cout<<"alphabet";
+    }
+    else if(x>='0' && x<='9')
+    {
+        cout<<"number";
+    }
+    else{
+        cout<<"special character";
+    }
+    
+}
 ```  
 
 ----------  
