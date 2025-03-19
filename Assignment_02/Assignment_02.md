@@ -1,5 +1,3 @@
-
-
 ----------  
 
 ## **Problem No : 01**  
@@ -282,73 +280,159 @@ int main()
 
 ## **Problem No : 10**  
 
-## **Problem Name : .**  
+## **Problem Name : Predict the output.**  
+
+----------  
+
+## **Output:**  
+``` 
+value of b and c are respectively  and 200
+```  
+
+----------  
+## **Problem No : 11**  
+
+## **Problem Name :  The minimum angle between hour and minute hand when the time is 9 angle is 90 degress.**  
 
 ----------  
 
 ## **Code :**  
 ```C++  
+#include <iostream>
+using namespace std;
+int main()
+{
+    cout<<(360/12)*3;
+    
+
+}
+```  
+
+----------  
+## **Problem No : 12**  
+
+## **Problem Name : Write a menu-driven program.a) Cm to ft b) Km to miles c) USD to INR d) Exit**  
+
+----------  
+
+## **Code :**  
+```C++  
+#include <iostream>
+using namespace std;
+
+int main() {
+    int choice;
+    double value;
+
+    do {
+        cout << "Menu:\n";
+        cout << "1) Cm to Ft\n";
+        cout << "2) Km to Miles\n";
+        cout << "3) USD to INR\n";
+        cout << "4) Exit\n";
+        cout << "Enter choice: ";
+        cin >> choice;
+
+        switch (choice) {
+            case 1:
+                cout << "Enter cm: ";
+                cin >> value;
+                cout << "Feet: " << value / 30.48 << endl;
+                break;
+            case 2:
+                cout << "Enter km: ";
+                cin >> value;
+                cout << "Miles: " << value * 0.621371 << endl;
+                break;
+            case 3:
+                cout << "Enter USD: ";
+                cin >> value;
+                cout << "INR: " << value * 83.0 << endl;
+                break;
+            case 4:
+                cout << "Exit\n";
+                break;
+        }
+    } while (choice != 4);
+
+}
 
 ```  
 
 ----------  
-## **Problem No : 10**  
+## **Problem No : 13**  
 
-## **Problem Name : .**  
+## **Problem Name : Convert Case Using ASCII Values.**  
 
 ----------  
 
 ## **Code :**  
 ```C++  
+#include <iostream>
+using namespace std;
+int main()
+{
+    char c;
+    cin>>c;
+    if(c>=65 && c<=91)
+    {
+        cout<<char(c+32);
+    }
+    else if(c>=97 && c<=122)
+    {
+        cout<<char(c-32);
+    }
+    
 
+}
 ```  
 
 ----------  
-## **Problem No : 10**  
+## **Problem No : 14**  
 
-## **Problem Name : .**  
+## **Problem Name : Predict the output.**  
 
 ----------  
 
-## **Code :**  
+## **Output :**  
 ```C++  
-
+Hello
 ```  
 
 ----------  
-## **Problem No : 10**  
+## **Problem No : 15**  
 
-## **Problem Name : .**  
+## **Problem Name : Predict the output.**  
 
 ----------  
 
-## **Code :**  
+## **Output :**  
 ```C++  
-
+Hello
 ```  
 
 ----------  
-## **Problem No : 10**  
+## **Problem No : 16**  
 
-## **Problem Name : .**  
+## **Problem Name : Predict the output.**  
 
 ----------  
 
-## **Code :**  
+## **Output :**  
 ```C++  
-
+Hello
 ```  
 
 ----------  
-## **Problem No : 10**  
+## **Problem No : 17**  
 
-## **Problem Name : .**  
+## **Problem Name : Predict the output.**  
 
 ----------  
 
-## **Code :**  
+## **Output :**  
 ```C++  
-
+hello
 ```  
 
 ----------  
