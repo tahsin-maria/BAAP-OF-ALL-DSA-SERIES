@@ -28,7 +28,7 @@
 </tr>
 <tr><td>1️⃣</td> <td><a href="https://github.com/tahsin-maria/BAAP-OF-ALL-DSA-SERIES/tree/main/Assignment%2001">Assignment_01</a></td> <td><a href="https://github.com/tahsin-maria/BAAP-OF-ALL-DSA-SERIES/tree/main/Assignment%2001">Code</a></td></tr>
 <tr><td>2️⃣</td> <td><a href="https://github.com/tahsin-maria/BAAP-OF-ALL-DSA-SERIES/blob/main/Assignment_02/Assignment_02.md">Assignment_02</a></td> <td><a href="https://github.com/tahsin-maria/BAAP-OF-ALL-DSA-SERIES/blob/main/Assignment_02/Assignment_02.md">Code</a></td></tr>
-<tr><td>3️⃣</td> <td><a href="#">Assignment_03</a></td> <td><a href="#">Code</a></td></tr>
+<tr><td>3️⃣</td> <td><a href="https://github.com/tahsin-maria/BAAP-OF-ALL-DSA-SERIES/blob/main/Assignment_03/Assignment_03.md">Assignment_03</a></td> <td><a href="https://github.com/tahsin-maria/BAAP-OF-ALL-DSA-SERIES/blob/main/Assignment_03/Assignment_03.md">Code</a></td></tr>
 <tr><td>4️⃣</td> <td><a href="#">Assignment_04</a></td> <td><a href="#">Code</a></td></tr>
 <tr><td>5️⃣</td> <td><a href="#">Assignment_05</a></td> <td><a href="#">Code</a></td></tr>
 <tr><td>6️⃣</td> <td><a href="#">Assignment_06</a></td> <td><a href="#">Code</a></td></tr>
