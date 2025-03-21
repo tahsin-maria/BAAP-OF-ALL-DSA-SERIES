@@ -1,5 +1,4 @@
 
-
 ---
 
 ## **Problem No : 01**  
@@ -129,7 +128,7 @@ int main()
 
 ## **Problem No : 07**  
 
-## **Problem Name : Print the factorials of first ‘n’ numbers Sample\nInput: 10\nOutput:\n1\n2\n6\n24\n120\n720\n5040\n40320\n362880\n3628800**  
+## **Problem Name : Print the factorials of first ‘n’ numbers Sample Input: 10 Output: 1 2 6 24 120 720 5040 40320 362880 3628800**  
 
 ----------  
 
@@ -156,7 +155,7 @@ int main()
 
 ## **Problem No : 08**  
 
-## **Problem Name : Find the sum of the series upto n terms.\nWrite a program to calculate the sum of series up to n term. For example, if n =5\nthe series will become 2 + 22 + 222 + 2222 + 22222 = 24690. Take the user input\nand then calculate. And the output style should match which is given in the\nExample. Input: 5\nOutput: Sum of above series is: 24690**  
+## **Problem Name : Find the sum of the series upto n terms. Write a program to calculate the sum of series up to n term. For example, if n =5 the series will become 2 + 22 + 222 + 2222 + 22222 = 24690. Take the user input and then calculate. And the output style should match which is given in the Example. Input: 5 Output: Sum of above series is: 24690**  
 
 ----------  
 
@@ -168,7 +167,7 @@ int main()
 
 ## **Problem No : 09**  
 
-## **Problem Name : Write a program to print all the unique combinations of 1,2,3 and 4\n1 2 3 4\n1 2 4 3\n1 3 2 4\n1 3 4 2\n1 4 2 3\n1 4 3 2\n2 1 3 4\n2 1 4 3\n2 3 1 4\n2 3 4 1\n2 4 1 3\n.\n.\nand so, on\nwww.alphaintern.in**  
+## **Problem Name : Write a program to print all the unique combinations of 1,2,3 and 4 1 2 3 4 1 2 4 3 1 3 2 4 1 3 4 2 1 4 2 3 1 4 3 2 2 1 3 4 2 1 4 3 2 3 1 4 2 3 4 1 2 4 1 3 ... and so, on www.alphaintern.in**  
 
 ----------  
 
@@ -180,7 +179,7 @@ int main()
 
 ## **Problem No : 10**  
 
-## **Problem Name : Write a program that will take 2 numbers as input and prints the LCM and HCF\nof those 2 numbers.**  
+## **Problem Name : Write a program that will take 2 numbers as input and prints the LCM and HCF of those 2 numbers.**  
 
 ----------  
 
@@ -192,7 +191,7 @@ int main()
 
 ## **Problem No : 11**  
 
-## **Problem Name : Display Fibonacci series up to 10 terms.\nNote: The Fibonacci Sequence is a series of numbers. The next number is found by adding up\nthe two numbers before it. The first two numbers are 0 and 1. For example, 0, 1, 1, 2, 3, 5, 8,\n13, 21. The next number in this series above is 13+21 = 34.**  
+## **Problem Name : Display Fibonacci series up to 10 terms. Note: The Fibonacci Sequence is a series of numbers. The next number is found by adding up the two numbers before it. The first two numbers are 0 and 1. For example, 0, 1, 1, 2, 3, 5, 8, 13, 21. The next number in this series above is 13+21 = 34.**  
 
 ----------  
 
@@ -218,7 +217,7 @@ int main()
 
 ## **Problem No : 12**  
 
-## **Problem Name : Reverse a given integer number\nInput: 76542\nOutput: 24567**  
+## **Problem Name : Reverse a given integer number Input: 76542 Output: 24567**  
 
 ----------  
 
@@ -245,7 +244,7 @@ int main()
 
 ## **Problem No : 13**  
 
-## **Problem Name : Take a user input as integer N. Find out the sum from 1 to N. If any number if divisible\nby 5, then skip that number. And if the sum is greater than 300, don't need to calculate\nthe sum further more. Print the final result. And don't use for loop to solve this problem.\nExample: Input: 30\nOutput: 276**  
+## **Problem Name : Take a user input as integer N. Find out the sum from 1 to N. If any number if divisible by 5, then skip that number. And if the sum is greater than 300, don't need to calculate the sum further more. Print the final result. Example: Input: 30 Output: 276**  
 
 ----------  
 
@@ -274,7 +273,7 @@ int main() {
 
 ## **Problem No : 14**  
 
-## **Problem Name : Print all the Armstrong numbers in a given range.Range will be provided by the user\nArmstrong number is a number that is equal to the sum of cubes of its digits. For example\n0, 1, 153, 370, 371 and 407 are the Armstrong numbers.**  
+## **Problem Name : Print all the Armstrong numbers in a given range. Range will be provided by the user. Armstrong number is a number that is equal to the sum of cubes of its digits. For example 0, 1, 153, 370, 371 and 407 are the Armstrong numbers.**  
 
 ----------  
 
@@ -297,3 +296,4 @@ int main() {
 
 ---
 ----------  
+
