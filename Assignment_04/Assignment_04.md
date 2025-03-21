@@ -142,7 +142,7 @@ int main()
     cin >> n;
     long long int fact = 1;
     int s = 1;
-    while (s != n)
+    while (s <= n)
     {
         fact = fact * s;
         cout << fact << endl;
@@ -160,19 +160,36 @@ int main()
 ----------  
 
 ## **Code :**  
-```C++  
+```C++
+#include <iostream>
+using namespace std;
+int main()
+{
+    int n, r = 0;
+    cin >> n;
+    long long int sum = 0;
+    int s = n;
+    while (s--)
+    {
+        r = r * 10 + 2;
+
+        sum += r;
+    }
+    cout << sum << endl;
+}
 ```  
 
 ----------  
 
 ## **Problem No : 09**  
 
-## **Problem Name : Write a program to print all the unique combinations of 1,2,3 and 4 1 2 3 4 1 2 4 3 1 3 2 4 1 3 4 2 1 4 2 3 1 4 3 2 2 1 3 4 2 1 4 3 2 3 1 4 2 3 4 1 2 4 1 3 ... and so, on www.alphaintern.in**  
+## **Problem Name : Write a program to print all the unique combinations of 1,2,3 and 4 1 2 3 4 1 2 4 3 1 3 2 4 1 3 4 2 1 4 2 3 1 4 3 2 2 1 3 4 2 1 4 3 2 3 1 4 2 3 4 1 2 4 1 3 ...**  
 
 ----------  
 
 ## **Code :**  
-```C++  
+```C++
+
 ```  
 
 ----------  
@@ -278,7 +295,28 @@ int main() {
 ----------  
 
 ## **Code :**  
-```C++  
+```C++
+#include <iostream>
+using namespace std;
+
+int main() {
+    int start, end;
+    cin >> start >> end;
+
+    for (int num = start; num <= end; num++) {
+        int sum = 0, temp = num;
+        
+        while (temp > 0) {
+            int digit = temp % 10;
+            sum += digit * digit * digit;
+            temp /= 10;
+        }
+
+        if (sum == num)
+            cout << num << " ";
+    }
+}
+
 ```  
 
 ----------
