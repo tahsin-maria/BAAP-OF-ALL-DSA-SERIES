@@ -329,6 +329,66 @@ int main() {
 
 ## **Output :**  
 ```C++  
+1.
+10  
+9  
+8  
+7  
+6  
+5  
+4  
+3  
+2  
+1  
+
+
+
+2.
+1  
+2  
+3  
+4  
+(keeps increasing forever)  
+
+
+3.
+1  
+
+
+4.
+Compilation error
+
+
+5.
+hello  
+hello  
+hello  
+(forever)
+
+
+6.
+Compilation error
+
+
+7.
+1  
+2  
+3  
+4  
+(keeps increasing forever)  
+
+
+8.
+1hello world  
+2hello world  
+3hello world  
+4hello world  
+5  
+6hello world  
+7hello world  
+8hello world  
+9hello world  
+10hello world  
 
 ```  
 
