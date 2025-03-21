@@ -10,7 +10,7 @@
 
 ## **Output :**  
 ```C++  
-
+Prints "In while loop" infinite times
 ```  
 
 ---
@@ -26,7 +26,7 @@
 
 ## **Output :**  
 ```C++  
-
+syntax error
 ```  
 
 ---
@@ -41,7 +41,9 @@
 
 ## **Output :**  
 ```C++  
-
+In for loop
+In for loop
+In for loop
 ```  
 
 ---
@@ -56,7 +58,11 @@
 
 ## **Output :**  
 ```C++  
-
+9 1
+8 2
+7 3
+6 4
+5 5
 ```  
 
 ---
@@ -69,7 +75,26 @@
 ----------  
 
 ## **Code :**  
-```C++  
+```C++
+#include <iostream>  
+using namespace std;  
+
+int main() {  
+    int num, sum = 0;  
+    cin >> num;  
+
+    while (num > 0) {  
+        int digit = num % 10;  
+        if (digit % 2 == 0) {  
+            sum += digit;  
+        }  
+        num /= 10;  
+    }  
+
+    cout << sum << endl;  
+    
+}  
+
 ```  
 
 ----------  
@@ -81,7 +106,23 @@
 ----------  
 
 ## **Code :**  
-```C++  
+```C++
+#include <iostream>
+using namespace std;
+int main()
+{
+    int n,r=0;
+    cin >> n;
+    long long int sum=0;
+    int s=n;
+    while(s)
+    {
+        r=r*10+s%10;
+        s/=10;
+    }
+    sum=r+n;
+    cout << sum << endl;
+}  
 ```  
 
 ----------  
@@ -93,7 +134,22 @@
 ----------  
 
 ## **Code :**  
-```C++  
+```C++
+#include <iostream>
+using namespace std;
+int main()
+{
+    int n, r = 0;
+    cin >> n;
+    long long int fact = 1;
+    int s = 1;
+    while (s != n)
+    {
+        fact = fact * s;
+        cout << fact << endl;
+        s++;
+    }
+}
 ```  
 
 ----------  
@@ -141,7 +197,21 @@
 ----------  
 
 ## **Code :**  
-```C++  
+```C++
+#include <iostream>
+using namespace std;
+int main()
+{
+    int n = 10, fast = 1, slow = 0;
+    long long int s = 1;
+    for (int i = 1; i <= n; i++)
+    {
+
+        cout << slow << " ";
+        fast = slow + fast;
+        slow = fast - slow;
+    }
+}
 ```  
 
 ----------  
@@ -153,7 +223,22 @@
 ----------  
 
 ## **Code :**  
-```C++  
+```C++
+#include <iostream>
+using namespace std;
+int main()
+{
+    int n,r=0;
+    cin >> n;
+   
+    int s=n;
+    while(s)
+    {
+        r=r*10+s%10;
+        s/=10;
+    }
+    cout << r << endl;
+}
 ```  
 
 ----------  
@@ -165,7 +250,24 @@
 ----------  
 
 ## **Code :**  
-```C++  
+```C++
+#include <iostream>  
+using namespace std;  
+
+int main() {  
+    int n, sum = 0;  
+    cin >> n;  
+
+    while (n > 0 && sum <= 300) {  
+        if (n % 5 != 0)  
+            sum += n;  
+        n--;  
+    }  
+
+    cout << sum << endl;  
+      
+}  
+
 ```  
 
 ----------  
