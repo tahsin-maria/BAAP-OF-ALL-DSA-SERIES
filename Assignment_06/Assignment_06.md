@@ -8,6 +8,35 @@
 
 ## **Code :**  
 ```C++
+#include <iostream>
+using namespace std;
+
+int main() {
+    int n;
+    cin >> n;
+    
+    int st = 1;         
+    int sp = n - 1;      
+    
+    for (int i = 1; i <= n; i++) {
+     
+        for (int j = 1; j <= sp; j++) {
+            cout << " ";
+        }
+        
+     
+        for (int jk = 1; jk <= st; jk++) {
+            cout << jk;
+        }
+
+        sp--;    
+        st += 2; 
+        
+        cout << endl; 
+    }
+
+  
+}
 
 ```  
 
@@ -28,6 +57,34 @@
 
 ## **Code :**  
 ```C++
+#include <iostream>
+using namespace std;
+
+int main() {
+    int n;
+    cin >> n;
+    
+    int st = 1;         
+    int sp = n - 1;      
+    
+    for (int i = 1; i <= n; i++) {
+     
+        for (int j = 1; j <= sp; j++) {
+            cout << " ";
+        }
+        
+     
+        for (int jk = 1; jk <= st; jk++) {
+            cout << char(jk+64);
+        }
+
+        sp--;    
+        st += 2; 
+        
+        cout << endl; 
+    }
+
+}
 
 ```  
 
@@ -48,7 +105,41 @@
 
 ## **Code :**  
 ```C++
-
+#include <iostream>
+using namespace std;
+int main()
+{
+    int n;
+    cin >> n;
+    int st = 1;
+    int sp = n - 1;
+    for (int i = 1; i <= n; i++)
+    {
+        int col = 0;
+        int row = i;
+        for (int j = 1; j <= sp; j++)
+        {
+            cout << " ";
+            col++;
+        }
+        for (int jk = 1; jk <= st; jk++)
+        {
+            col++;
+            cout << char(row + 64);
+            if (col < n)
+            {
+                row--;
+            }
+            else
+            {
+                row++;
+            }
+        }
+        sp--;
+        st += 2;
+        cout << endl;
+    }
+}
 ```  
 
 ----------  
