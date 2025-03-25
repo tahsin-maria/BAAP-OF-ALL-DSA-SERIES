@@ -352,13 +352,65 @@ int main()
 
 ## **Code :**  
 ```C++
+#include <iostream>
+using namespace std;
+int main()
+{
+    int n;
+    cin >> n;
+    int st = n;
+    int sp = 0;
+    for (int i = 1; i <= n; i++)
+    {
+        for (int jk = st; jk >= 1; jk--)
+        {
+
+            cout << "*";
+        }
+        for (int j = 1; j <= sp; j++)
+        {
+            cout << " ";
+        }
+        for (int jk = st; jk >= 1; jk--)
+        {
+
+            cout << "*";
+        }
+        sp+=2;
+        st--;
+        cout << endl;
+    }
+     st = 1;
+     sp = 2 * n - 2;
+    for (int i = 1; i <= n; i++)
+    {
+        for (int jk = 1; jk <= st; jk++)
+        {
+
+            cout << "*";
+        }
+        for (int j = 1; j <= sp; j++)
+        {
+            cout << " ";
+        }
+        for (int jk = st; jk >= 1; jk--)
+        {
+
+            cout << "*";
+        }
+        sp-=2;
+        st++;
+        cout << endl;
+    }
+}
 
 ```  
 
 ----------  
 ## **Output :**
-![image](https://github.com/user-attachments/assets/dc51ba71-d4d0-49c0-b519-99b192aa2c04)
+![image](https://github.com/user-attachments/assets/027b2429-644f-4f8d-845b-c85dce29c3d9)
 
+---------- 
 
 ---------- 
 ## **Problem No : 10**  
@@ -369,6 +421,77 @@ int main()
 
 ## **Code :**  
 ```C++
+#include <iostream>
+using namespace std;
+int main()
+{
+    int n;
+    cin >> n;
+    int st = 1;
+    int sp = 2 * n - 2;
+    for (int i = 1; i <= n; i++)
+    {
+        for (int jk = 1; jk <= st; jk++)
+        {
+
+            cout << "*";
+        }
+        for (int j = 1; j <= sp; j++)
+        {
+            cout << " ";
+        }
+        for (int jk = st; jk >= 1; jk--)
+        {
+
+            cout << "*";
+        }
+        sp -= 2;
+        st++;
+        cout << endl;
+    }
+    st = n-1;
+    sp = 2;
+    for (int i = 1; i < n; i++)
+    {
+        for (int jk = st; jk >= 1; jk--)
+        {
+
+            cout << "*";
+        }
+        for (int j = 1; j <= sp; j++)
+        {
+            cout << " ";
+        }
+        for (int jk = st; jk >= 1; jk--)
+        {
+
+            cout << "*";
+        }
+        sp += 2;
+        st--;
+        cout << endl;
+    }
+}
+
+```  
+
+----------  
+## **Output :**
+![image](https://github.com/user-attachments/assets/4c520f1a-ece9-41d3-a07e-0a9ce848616d)
+
+
+---------- 
+
+---------- 
+## **Problem No : 11**  
+
+## **Problem Name : Print the following pattern**  
+
+----------  
+
+## **Code :**  
+```C++
+
 
 ```  
 
@@ -376,5 +499,5 @@ int main()
 ## **Output :**
 
 
----------- 
 
+---------- 
