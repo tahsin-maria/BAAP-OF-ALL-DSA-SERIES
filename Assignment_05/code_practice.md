@@ -264,12 +264,46 @@ int main()
 
 ## **Code :**  
 ```C++
+#include <iostream>
+using namespace std;
+int main()
+{
+    int n;
+    cin >> n;
+    int st = 1;
+    int sp = n - 1;
+    for (int i = 1; i <= n; i++)
+    {
+        int col = 0;
+        int row = 1;
+        for (int j = 1; j <= sp; j++)
+        {
+            cout << " ";
+        }
+        for (int jk = 1; jk <= st; jk++)
+        {
 
+            cout << char(row + 64);
+            if (jk < (st / 2)+1)
+            {
+                row++;
+            }
+            else
+            {
+                row--;
+            }
+        }
+        sp--;
+        st += 2;
+        cout << endl;
+    }
+}
 ```  
 
 ----------  
 ## **Output :**
-![image](https://github.com/user-attachments/assets/1996a0fa-8b8c-4469-a929-94644e12be1e)
+![image](https://github.com/user-attachments/assets/94c4d463-bbef-46af-be99-672ed088a629)
+
 
 
 ---------- 
