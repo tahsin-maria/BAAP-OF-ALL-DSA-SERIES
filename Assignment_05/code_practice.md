@@ -222,7 +222,7 @@ int main()
 
 ----------  
 ## **Output :**
-![image](https://github.com/user-attachments/assets/8f6507cc-5e52-4ba9-98fc-94acc7075b9f)
+
 
 
 ---------- 
