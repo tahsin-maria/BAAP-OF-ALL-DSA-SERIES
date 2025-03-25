@@ -497,6 +497,7 @@ int main()
 
 ----------  
 ## **Output :**
+![image](https://github.com/user-attachments/assets/cf866333-112c-4f01-a469-da105eef7f39)
 
 
 
