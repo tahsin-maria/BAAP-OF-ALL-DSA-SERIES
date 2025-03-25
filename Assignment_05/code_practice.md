@@ -217,11 +217,41 @@ int main()
 
 ## **Code :**  
 ```C++
+#include <iostream>
+using namespace std;
+int main()
+{
+    int n;
+    cin >> n;
+    int st = 1;
+    int sp = 2 * n - 2;
+    for (int i = 1; i <= n; i++)
+    {
+        for (int jk = 1; jk <= st; jk++)
+        {
+
+            cout << jk;
+        }
+        for (int j = 1; j <= sp; j++)
+        {
+            cout << " ";
+        }
+        for (int jk = st; jk >= 1; jk--)
+        {
+
+            cout << jk;
+        }
+        sp-=2;
+        st++;
+        cout << endl;
+    }
+}
 
 ```  
 
 ----------  
 ## **Output :**
+![image](https://github.com/user-attachments/assets/b7863e85-366b-463e-a91f-a43d781d12ca)
 
 
 
