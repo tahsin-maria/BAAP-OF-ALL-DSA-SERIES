@@ -269,6 +269,7 @@ int main()
 
 ----------  
 ## **Output :**
+![image](https://github.com/user-attachments/assets/1996a0fa-8b8c-4469-a929-94644e12be1e)
 
 
 ---------- 
