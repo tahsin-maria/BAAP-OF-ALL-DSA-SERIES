@@ -491,14 +491,36 @@ int main()
 
 ## **Code :**  
 ```C++
+#include <iostream>
+using namespace std;
+int main()
+{
+    int n, top, bottom, left, right;
+    cin >> n;
+
+    for (int i = 0; i < 2 * n - 1; i++)
+    {
+        for (int j = 0; j < 2 * n - 1; j++)
+        {
+            top = i;
+            bottom = (2 * n - 2) - i;
+            left = j;
+            right = (2 * n - 2) - j;
+            cout << n - min(min(left, right), min(top, bottom));
+        }
+        cout << endl;
+    }
+}
 
 
 ```  
 
 ----------  
 ## **Output :**
-![image](https://github.com/user-attachments/assets/cf866333-112c-4f01-a469-da105eef7f39)
+![image](https://github.com/user-attachments/assets/b0434802-3e3f-499c-88a6-5b80c7ecb2c9)
 
+
+![image](https://github.com/user-attachments/assets/3fd3ff6b-3a86-4a42-911b-50a4866c3499)
 
 
 ---------- 
