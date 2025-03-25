@@ -307,7 +307,61 @@ int main()
 
 
 ---------- 
-## **Problem No : **  
+## **Problem No : 8**  
+
+## **Problem Name : Print the following pattern**  
+
+----------  
+
+## **Code :**  
+```C++
+#include <iostream>
+using namespace std;
+int main()
+{
+    int n,k;
+    cin >> n;
+    int st ;
+    k=n;
+    for (int i = 1; i <= n; i++)
+    {
+        st = k;
+        for (int jk = 0; jk < i; jk++)
+        {
+
+            cout << char(jk + 64 + st);
+            
+        }
+        k--;
+        cout << endl;
+    }
+}
+```  
+
+----------  
+## **Output :**
+![image](https://github.com/user-attachments/assets/0c23f19a-ff2e-4489-9f64-f599b6c03866)
+
+
+---------- 
+## **Problem No : 9**  
+
+## **Problem Name : Print the following pattern**  
+
+----------  
+
+## **Code :**  
+```C++
+
+```  
+
+----------  
+## **Output :**
+![image](https://github.com/user-attachments/assets/dc51ba71-d4d0-49c0-b519-99b192aa2c04)
+
+
+---------- 
+## **Problem No : 10**  
 
 ## **Problem Name : Print the following pattern**  
 
@@ -323,67 +377,4 @@ int main()
 
 
 ---------- 
-## **Problem No : **  
 
-## **Problem Name : Print the following pattern**  
-
-----------  
-
-## **Code :**  
-```C++
-
-```  
-
-----------  
-## **Output :**
-
-
----------- 
-## **Problem No : **  
-
-## **Problem Name : Print the following pattern**  
-
-----------  
-
-## **Code :**  
-```C++
-
-```  
-
-----------  
-## **Output :**
-
-
----------- 
-## **Problem No : **  
-
-## **Problem Name : Print the following pattern**  
-
-----------  
-
-## **Code :**  
-```C++
-
-```  
-
-----------  
-## **Output :**
-
-
----------- 
-## **Problem No : **  
-
-## **Problem Name : Print the following pattern**  
-
-----------  
-
-## **Code :**  
-```C++
-
-```  
-
-----------  
-## **Output :**
-
-
----------- 
