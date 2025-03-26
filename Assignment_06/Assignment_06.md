@@ -179,12 +179,53 @@ int main()
 
 ## **Code :**  
 ```C++
+#include <iostream>
+using namespace std;
+int main()
+{
+    int n,t;
+    cin >> n;
+    int st = n;
+    int sp = 1;t=n;
+    for (int i = 1; i <= n; i++)
+    {
+        for (int jk = 1; jk <= st; jk++)
+        {
+
+            cout << jk;
+        }
+        if (i > 1)
+        {
+            for (int j = 1; j <= sp; j++)
+            {
+                cout << " ";
+            }
+            sp += 2;
+        }
+        if (i == 1)
+        {
+            t--;
+        }
+        for (int jk = t; jk >= 1; jk--)
+        {
+
+            cout << jk;
+        }
+
+        st--;
+        if(i>1){
+            t--;
+        }
+        cout << endl;
+    }
+}
 
 ```  
 
 ----------  
 ## **Output :**
-![image](https://github.com/user-attachments/assets/10a56c0c-5d6b-474b-943e-cd2efa05c4ee)
+
+![image](https://github.com/user-attachments/assets/6d4f38d0-66ff-4113-8086-df9c8c336c07)
 
 
 ----------  
